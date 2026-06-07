@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="BlackHoleSimulation/BlackHoleSimulation.vcxproj" />
+  <Project Path="BlackHoleSimulation/BlackHoleSimulation.vcxproj" Id="5ebd2c5f-bec9-4f67-9062-42b09bda4a8c" />
 </Solution>
